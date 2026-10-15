@@ -1,0 +1,6 @@
+#Default Owner for all files
+@vinoth2409
+#Application code
+/src/* @vinoth2409 #Backend Team
+Dockerfile* @vinoth2409 #Devops
+.github/* @vinoth2409 #Devops
